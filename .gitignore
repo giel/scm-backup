@@ -1,9 +1,11 @@
 *.suo
 *.user
+*.zip
 bin
 obj
 project.lock.json
 .vs
+.idea
 release/
 environment-variables.ps1
 src/ScmBackup/AssemblyCopyright.cs
